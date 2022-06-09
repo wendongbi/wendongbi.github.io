@@ -3,9 +3,9 @@ layout: about
 ---
 
 # About Me
-There is no specific format here. You can fill out the form you want.  
-For example, you might want to write a brief introduction about your self, experience, interests, publications, and other information.  
-I wrote "about me", "career", and "interests" on this page as an example.  
+I am now a postgraduate student at the Institue of Computing Technology (ICT), Chinese Academy of Sciences, and I will graduate in June 2023.  My research interests mainly focus on the Machine Learning and Graph Representation  Learning, especially the application of Graph Neural Network (GNN).
+
+Prior to joining ICT, I got my bachelor degree from ShangHaiJiaoTong University (SJTU) in 2020.
 
 <br/>
 
