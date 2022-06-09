@@ -34,7 +34,11 @@ h6 {
   line-height: normal;
 }
 
-li,
+li {
+  color: black;
+  font-family: $sans-serif;
+  line-height: normal;
+}
 ul,
 p {
   color: $default-shade;
