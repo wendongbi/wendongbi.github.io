@@ -9,6 +9,12 @@ Prior to joining ICT, I got my bachelor degree from ShangHaiJiaoTong University 
 
 <br/>
 
+# Research Interests
+
+Graph Representation Learning; Graph Neural Networks; Financial Graphs; 
+
+<br/>
+
 # Career
 * Second Company (2012/01 ~ )
   * Web Application Firewall
@@ -17,11 +23,6 @@ Prior to joining ICT, I got my bachelor degree from ShangHaiJiaoTong University 
 * First Company (2011/01 ~ 2011/12)
   * VPN Development Company
   * Team Leader of VPN Development Div.
-
-<br/>
-
-# Interests
-Graph Representation Learning; Graph Neural Networks; Financial Graphs; 
 
 <br/>
 
