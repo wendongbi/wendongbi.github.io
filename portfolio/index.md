@@ -1,5 +1,5 @@
 ---
-layout: about 
+layout: portfolio
 ---
 
 # About Me
