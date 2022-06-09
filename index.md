@@ -20,18 +20,14 @@ I wrote "about me", "career", and "interests" on this page as an example.
 
 <br/>
 
-
-
 # Interests
-Graph Neural Networks
+Graph Representation Learning; Graph Neural Networks; Financial Graphs; 
 
 <br/>
-
-
 
 # Publications
 
 * Company-as-Tribe: Company Financial Risk Assessment on Tribe-style Graph with Hierarchical Graph Neural Network 
 
-  In *ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (**KDD**), 2022*
+  In *ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD**), 2022*
 
