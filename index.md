@@ -37,7 +37,7 @@ Graph Representation Learning; Graph Neural Networks; Financial Graphs;
 
   C. Yue, L. Du, Q. Fu, **W. Bi**, H. Liu, Y. Gu, D. Yao
 
-  In *ACM WSDM Cup 2022: Temporal Link Prediction Task 2nd Prize*
+  In *ACM WSDM Cup 2022: 2nd Prize*
 
 * Towards Better Understanding of Disentangled Representations via Mutual Information [[url](https://arxiv.org/abs/1911.10922)]
 
