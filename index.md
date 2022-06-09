@@ -20,7 +20,18 @@ I wrote "about me", "career", and "interests" on this page as an example.
 
 <br/>
 
+
+
 # Interests
-I am interested in technology trends.  
-I'm not afraid to learn languages, but I enjoy using Python.  
-I like to automate and reduce annoying things.  
+Graph Neural Networks
+
+<br/>
+
+
+
+# Publications
+
+* Company-as-Tribe: Company Financial Risk Assessment on Tribe-style Graph with Hierarchical Graph Neural Network 
+
+  In *ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (**KDD**), 2022*
+
