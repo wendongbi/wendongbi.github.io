@@ -24,11 +24,11 @@ Wendong's primary research interest covers the following areas:
 # Career
 * **Microsoft Research Aisia (2021/11 ~ )**
   
-  Research Intern
+  Research Intern@DKI-Group
   
-  * Web Application Firewall
-    * Developed TCP network acceleration module.
-    * Developde Application User Interface.
+  * Research on Graph Representation Learning, Graph Neural Networks
+    * GNN, Data mining, Heterophily Graph
+    * Papers and international algorithm competitions.
   
 * First Company (2011/01 ~ 2011/12)
   * VPN Development Company
