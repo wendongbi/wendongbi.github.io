@@ -3,15 +3,21 @@ layout: about
 ---
 
 # About Me
-I am now a postgraduate student at the Institue of Computing Technology (ICT), Chinese Academy of Sciences, and I will graduate in June 2023.  My research interests mainly focus on the Machine Learning and Graph Representation  Learning, especially the application of Graph Neural Network (GNN).
+I am now a postgraduate student in Prof. [Huawei Shen](http://www.ict.cas.cn/sourcedb_2018_ict_cas/cn/jssrck/201402/t20140221_4037648.html)'s Group at the Institue of Computing Technology (ICT), Chinese Academy of Sciences, and I will graduate in June 2023.  My research interests mainly focus on the Machine Learning and Graph Representation  Learning, especially the application of Graph Neural Network (GNN).
 
-Prior to joining ICT, I got my bachelor degree from ShangHaiJiaoTong University (SJTU) in 2020.
+Prior to joining ICT, I recieved my bachelor degree in computer science (machine learning) and technology from ShangHaiJiaoTong University (SJTU) in 2020. And I used to do research work in ThinkLab (Prof. Junchi Yan's Group) from 2019 to 2020.
 
 <br/>
 
 # Research Interests
 
-Graph Representation Learning; Graph Neural Networks; Financial Graphs; 
+Wendong's primary research interest covers the following areas:
+
+* Graph Representation Learning & Graph Neural Networks; 
+* Machine Learning & Data Mining; 
+* Financial Graphs; 
+* Recommender System; 
+* Computer Vision.
 
 <br/>
 
