@@ -22,10 +22,14 @@ Wendong's primary research interest covers the following areas:
 <br/>
 
 # Career
-* Second Company (2012/01 ~ )
+* **Microsoft Research Aisia (2021/11 ~ )**
+  
+  Research Intern
+  
   * Web Application Firewall
     * Developed TCP network acceleration module.
     * Developde Application User Interface.
+  
 * First Company (2011/01 ~ 2011/12)
   * VPN Development Company
   * Team Leader of VPN Development Div.
