@@ -5,7 +5,7 @@ layout: about
 # About Me
 I am now a postgraduate student in Prof. [Huawei Shen](http://www.ict.cas.cn/sourcedb_2018_ict_cas/cn/jssrck/201402/t20140221_4037648.html)'s Group at the Institue of Computing Technology (ICT), Chinese Academy of Sciences, and I will graduate in June 2023.  My research interests mainly focus on the Machine Learning and Graph Representation  Learning, especially the application of Graph Neural Network (GNN).
 
-Prior to joining ICT, I recieved my bachelor degree in computer science (machine learning) and technology from ShangHaiJiaoTong University (SJTU) in 2020. And I used to do research work in ThinkLab (Prof. Junchi Yan's Group) from 2019 to 2020.
+Prior to joining ICT, I recieved my bachelor degree in computer science (machine learning) and technology from ShangHaiJiaoTong University (SJTU) in 2020. And I used to do research work in [ThinkLab](https://thinklab.sjtu.edu.cn) (Prof. Junchi Yan's Group) from 2019 to 2020.
 
 <br/>
 
@@ -24,15 +24,17 @@ Wendong's primary research interest covers the following areas:
 # Career
 * **Microsoft Research Aisia (2021/11 ~ )**
   
-  Research Intern@DKI-Group
+  Research Intern@DKI-Group, Beijing
   
   * Research on Graph Representation Learning, Graph Neural Networks
     * GNN, Data mining, Heterophily Graph
     * Papers and international algorithm competitions.
   
-* First Company (2011/01 ~ 2011/12)
-  * VPN Development Company
-  * Team Leader of VPN Development Div.
+* **Byte Dance (2020/10~2021/5)**
+
+  Algorithm Engineer@AI-Lab-VC, Beijing
+
+  * 
 
 <br/>
 
