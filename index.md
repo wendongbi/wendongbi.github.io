@@ -26,15 +26,21 @@ Wendong's primary research interest covers the following areas:
   
   Research Intern@DKI-Group, Beijing
   
-  * Research on Graph Representation Learning, Graph Neural Networks
-    * GNN, Data mining, Heterophily Graph
+  * Research on Graph Representation Learning, Graph Neural Networks.
+    * GNN, Data mining, Heterophily Graph, Heterogeneous Graph.
     * Papers and international algorithm competitions.
   
 * **Byte Dance (2020/10~2021/5)**
 
   Algorithm Engineer@AI-Lab-VC, Beijing
 
-  * 
+  * Participated in the Douyin Natural Project, responsible for the training and deployment of large-scale  fine-grained image classification models.
+
+* **JD.com (2019/10~2020/5)**
+
+  Algorithm Engineer@JD AI Research, Shanghai 
+
+  * Product image intelligent generation based on product attributes and UV conversion rate.
 
 <br/>
 
