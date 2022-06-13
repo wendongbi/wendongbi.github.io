@@ -22,7 +22,7 @@ Wendong's primary research interest covers the following areas:
 <br/>
 
 # Career
-* **Microsoft Research Aisia (2021/11 ~ )**
+* **Microsoft Research Asia (2021/11 ~ )**
   
   Research Intern@DKI-Group, Beijing
   
