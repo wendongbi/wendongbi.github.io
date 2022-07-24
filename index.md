@@ -56,7 +56,7 @@ Wendong's primary research interest covers the following areas:
 
   C. Yue, L. Du, Q. Fu, **W. Bi**, H. Liu, Y. Gu, D. Yao
 
-  In *The* *International Conference on Web Search and Data Mining (**WSDM'22**) | 2nd prize in ACM WSDM Cup 2022* 
+  In *The International Conference on Web Search and Data Mining (**WSDM'22**)* | *2nd prize in ACM WSDM Cup 2022*
 
 * Towards Better Understanding of Disentangled Representations via Mutual Information [[pdf](https://arxiv.org/abs/1911.10922)]
 
