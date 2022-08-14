@@ -46,7 +46,7 @@ Wendong's primary research interest covers the following areas:
 
 # Publications
 
-* Company-as-Tribe: Company Financial Risk Assessment on Tribe-style Graph with Hierarchical Graph Neural Network [[pdf]()] 
+* Company-as-Tribe: Company Financial Risk Assessment on Tribe-style Graph with Hierarchical Graph Neural Network [[pdf](https://dl.acm.org/doi/10.1145/3534678.3539129)] [[video](https://dl.acm.org/doi/10.1145/3534678.3539129)]
 
   **W. Bi**, B. Xu, X. Sun, Z. Wang, H. Shen, X. Cheng
   
