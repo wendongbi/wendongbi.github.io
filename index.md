@@ -58,9 +58,12 @@ Wendong's primary research interest covers the following areas:
 
   In *The International Conference on Web Search and Data Mining (**WSDM'22**)* | *2nd prize in ACM WSDM Cup 2022*
 
+* MM-GNN: Mix-Moment Graph Neural Network towards Modeling Neighborhood Feature Distribution [[pdf](https://arxiv.org/abs/2208.07012)]
+
+  **W. Bi**, L. Du, Q. Fu, Y. Wang, S. Han, D. Zhang
+
 * Towards Better Understanding of Disentangled Representations via Mutual Information [[pdf](https://arxiv.org/abs/1911.10922)]
 
   X. Yang, **W. Bi,** Y. Sun, Y. Cheng, J. Yan
 
-  In *https://arxiv.org/abs/1911.10922*
 
