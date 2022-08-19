@@ -4,7 +4,7 @@ layout: portfolio
 
 # Publications
 
-* Company-as-Tribe: Company Financial Risk Assessment on Tribe-style Graph with Hierarchical Graph Neural Network [[pdf](https://dl.acm.org/doi/10.1145/3534678.3539129)] [[video](https://dl.acm.org/doi/10.1145/3534678.3539129)]
+* Company-as-Tribe: Company Financial Risk Assessment on Tribe-style Graph with Hierarchical Graph Neural Network [[pdf](https://dl.acm.org/doi/10.1145/3534678.3539129)] [[video](https://dl.acm.org/doi/10.1145/3534678.3539129)] [[Kudos](https://www.growkudos.com/publications/10.1145%25252F3534678.3539129/reader)]
 
   **W. Bi**, B. Xu, X. Sun, Z. Wang, H. Shen, X. Cheng
 
