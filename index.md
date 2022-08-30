@@ -22,7 +22,7 @@ Wendong's primary research interest covers the following areas:
 <br/>
 
 # Career
-* **Microsoft Research Asia **
+* **Microsoft Research Asia**
   
   Research Intern@DKI-Group, Beijing
   
@@ -30,13 +30,13 @@ Wendong's primary research interest covers the following areas:
     * GNN, Data mining, Heterophily Graph, Heterogeneous Graph.
     * Papers and international algorithm competitions.
   
-* **Byte Dance **
+* **Byte Dance**
 
   Algorithm Engineer@AI-Lab-VC, Beijing
 
   * Participated in the Douyin Natural Project, responsible for the training and deployment of large-scale  fine-grained image classification models.
 
-* **JD.com **
+* **JD.com**
 
   Algorithm Engineer@JD AI Research, Shanghai 
 
