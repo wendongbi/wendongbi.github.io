@@ -62,14 +62,18 @@ Wendong's primary research interest covers the following areas:
 
   **W. Bi**, L. Du, Q. Fu, Y. Wang, S. Han, D. Zhang
 
-  In *IEEE Transactions on Knowledge and Data Engineering (**TKDE**)*
+  In *arXiv, paper under review*
 
 * MM-GNN: Mix-Moment Graph Neural Network towards Modeling Neighborhood Feature Distribution [[pdf](https://arxiv.org/abs/2208.07012)]
 
   **W. Bi**, L. Du, Q. Fu, Y. Wang, S. Han, D. Zhang
 
+  In *arXiv, paper under review*
+
 * Towards Better Understanding of Disentangled Representations via Mutual Information [[pdf](https://arxiv.org/abs/1911.10922)]
 
   X. Yang, **W. Bi,** Y. Sun, Y. Cheng, J. Yan
+  
+  In *arXiv, paper under review*
 
 
