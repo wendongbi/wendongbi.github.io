@@ -20,6 +20,8 @@ layout: portfolio
 
   **W. Bi**, L. Du, Q. Fu, Y. Wang, S. Han, D. Zhang
 
+  In *IEEE Transactions on Knowledge and Data Engineering (**TKDE**)*
+
 * MM-GNN: Mix-Moment Graph Neural Network towards Modeling Neighborhood Feature Distribution [[pdf](https://arxiv.org/abs/2208.07012)]
 
   **W. Bi**, L. Du, Q. Fu, Y. Wang, S. Han, D. Zhang
