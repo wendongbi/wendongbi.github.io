@@ -14,7 +14,11 @@ layout: portfolio
 
   C. Yue, L. Du, Q. Fu, **W. Bi**, H. Liu, Y. Gu, D. Yao
 
-  In *The International Conference on Web Search and Data Mining (**WSDM'22**)* | *2nd prize in ACM WSDM Cup 2022*
+  In *The International Conference on Web Search and Data Mining (**WSDM'22**)* | *2nd prize in ACM WSDM Cup 2022* 
+
+* Make Heterophily Graphs Better Fit GNN: A Graph Rewiring Approach [[pdf](https://arxiv.org/pdf/2209.08264.pdf)] 
+
+  **W. Bi**, L. Du, Q. Fu, Y. Wang, S. Han, D. Zhang
 
 * MM-GNN: Mix-Moment Graph Neural Network towards Modeling Neighborhood Feature Distribution [[pdf](https://arxiv.org/abs/2208.07012)]
 
