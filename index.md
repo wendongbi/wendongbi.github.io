@@ -52,6 +52,12 @@ Wendong's primary research interest covers the following areas:
   
   In *ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD'22 oral**)*
 
+* MM-GNN: Mix-Moment Graph Neural Network towards Modeling Neighborhood Feature Distribution [[pdf](https://arxiv.org/abs/2208.07012)]
+
+  **W. Bi**, L. Du, Q. Fu, Y. Wang, S. Han, D. Zhang
+
+  In *The International Conference on Web Search and Data Mining (**WSDM'23**)*
+
 * HTGN-BTW: Heterogeneous Temporal Graph Network with Bi-Time-Window Training Strategy for Temporal Link Prediction [[pdf](https://arxiv.org/abs/2202.12713)]
 
   C. Yue, L. Du, Q. Fu, **W. Bi**, H. Liu, Y. Gu, D. Yao
@@ -64,16 +70,8 @@ Wendong's primary research interest covers the following areas:
 
   In *arXiv, paper under review*
 
-* MM-GNN: Mix-Moment Graph Neural Network towards Modeling Neighborhood Feature Distribution [[pdf](https://arxiv.org/abs/2208.07012)]
-
-  **W. Bi**, L. Du, Q. Fu, Y. Wang, S. Han, D. Zhang
-
-  In *arXiv, paper under review*
-
 * Towards Better Understanding of Disentangled Representations via Mutual Information [[pdf](https://arxiv.org/abs/1911.10922)]
 
   X. Yang, **W. Bi,** Y. Sun, Y. Cheng, J. Yan
   
   In *arXiv, paper under review*
-
-

@@ -10,6 +10,12 @@ layout: portfolio
 
   In *ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD'22 oral**)*
 
+* MM-GNN: Mix-Moment Graph Neural Network towards Modeling Neighborhood Feature Distribution [[pdf](https://arxiv.org/abs/2208.07012)]
+
+  **W. Bi**, L. Du, Q. Fu, Y. Wang, S. Han, D. Zhang
+
+  In *The International Conference on Web Search and Data Mining (**WSDM'23**)*
+
 * HTGN-BTW: Heterogeneous Temporal Graph Network with Bi-Time-Window Training Strategy for Temporal Link Prediction [[pdf](https://arxiv.org/abs/2202.12713)]
 
   C. Yue, L. Du, Q. Fu, **W. Bi**, H. Liu, Y. Gu, D. Yao
@@ -17,12 +23,6 @@ layout: portfolio
   In *The International Conference on Web Search and Data Mining (**WSDM'22**)* | *2nd prize in ACM WSDM Cup 2022* 
 
 * Make Heterophily Graphs Better Fit GNN: A Graph Rewiring Approach [[pdf](https://arxiv.org/pdf/2209.08264.pdf)] 
-
-  **W. Bi**, L. Du, Q. Fu, Y. Wang, S. Han, D. Zhang
-
-  In *arXiv, paper under review*
-
-* MM-GNN: Mix-Moment Graph Neural Network towards Modeling Neighborhood Feature Distribution [[pdf](https://arxiv.org/abs/2208.07012)]
 
   **W. Bi**, L. Du, Q. Fu, Y. Wang, S. Han, D. Zhang
 
