@@ -4,6 +4,18 @@ layout: portfolio
 
 # Publications
 
+* Predicting the Silent Majority on Graphs: Knowledge Transferable Graph Neural Network
+
+  **W. Bi**, B. Xu, X. Sun, L. Xu, H. Shen, X. Cheng
+
+  In The ACM Web Conference 2023 (**WWW'2023**)
+
+* Homophily-oriented Heterogeneous Graph Rewiring
+
+  J. Guo, L. Du, **W. Bi**, Q. Fu, X. Ma, X. Chen, S. Han, D. Zhang, Y. Zhang
+
+  In The ACM Web Conference 2023 (**WWW'2023**)
+
 * Company-as-Tribe: Company Financial Risk Assessment on Tribe-style Graph with Hierarchical Graph Neural Network [[pdf](https://dl.acm.org/doi/10.1145/3534678.3539129)] [[video](https://dl.acm.org/doi/10.1145/3534678.3539129)] [[Kudos](https://www.growkudos.com/publications/10.1145%25252F3534678.3539129/reader)]
 
   **W. Bi**, B. Xu, X. Sun, Z. Wang, H. Shen, X. Cheng
