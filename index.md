@@ -46,13 +46,13 @@ Wendong's primary research interest covers the following areas:
 
 # Publications
 
-* Predicting the Silent Majority on Graphs: Knowledge Transferable Graph Neural Network
+* Predicting the Silent Majority on Graphs: Knowledge Transferable Graph Neural Network [[pdf](https://arxiv.org/abs/2302.00873)]
 
   **W. Bi**, B. Xu, X. Sun, L. Xu, H. Shen, X. Cheng
   
   In The ACM Web Conference 2023 (**WWW'2023**)
 
-* Homophily-oriented Heterogeneous Graph Rewiring
+* Homophily-oriented Heterogeneous Graph Rewiring [[pdf](https://arxiv.org/abs/2302.06299)]
 
   J. Guo, L. Du, **W. Bi**, Q. Fu, X. Ma, X. Chen, S. Han, D. Zhang, Y. Zhang
 
@@ -64,7 +64,7 @@ Wendong's primary research interest covers the following areas:
   
   In *ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD'22, oral**)*
 
-* MM-GNN: Mix-Moment Graph Neural Network towards Modeling Neighborhood Feature Distribution [[pdf](https://arxiv.org/abs/2208.07012)]
+* MM-GNN: Mix-Moment Graph Neural Network towards Modeling Neighborhood Feature Distribution [[pdf](https://dl.acm.org/doi/10.1145/3539597.3570457)] [[video](https://dl.acm.org/doi/10.1145/3539597.3570457)]
 
   **W. Bi**, L. Du, Q. Fu, Y. Wang, S. Han, D. Zhang
 
