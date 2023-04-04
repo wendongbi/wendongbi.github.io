@@ -3,7 +3,7 @@ layout: about
 ---
 
 # About Me
-Wendong is a master student at Prof. [Huawei Shen](http://www.ict.cas.cn/sourcedb_2018_ict_cas/cn/jssrck/201402/t20140221_4037648.html)'s Group at the Institue of Computing Technology (ICT), Chinese Academy of Sciences, and he will graduate in June 2023.  Wendong's research interests mainly focus on the Machine Learning and Graph Representation  Learning, especially the application of Graph Neural Network (GNN).
+Wendong is a master student at Prof. [Huawei Shen](http://www.ict.cas.cn/sourcedb_2018_ict_cas/cn/jssrck/201402/t20140221_4037648.html)'s Group at the Institue of Computing Technology (ICT), Chinese Academy of Sciences, and he will graduate in June 2023.  Wendong's research interests mainly focus on the Machine Learning and Graph Representation  Learning, especially the applied research of Graph Representation Learning, Graph Neural Networks.
 
 Prior to joining ICT, he recieved the bachelor degree in computer science and technology (machine learning) from ShangHaiJiaoTong University (SJTU) in 2020. And he used to do research in [ThinkLab](https://thinklab.sjtu.edu.cn) (Prof. Junchi Yan's Group) at [MoE-AI-Lab@SJTU](https://ailab-moe.sjtu.edu.cn) from 2019 to 2020.
 
@@ -15,30 +15,37 @@ Wendong's primary research interest covers the following areas:
 
 * Graph Representation Learning & Graph Neural Networks; 
 * Machine Learning & Data Mining; 
-* Financial Graphs; 
+* Social Networks, Financial Networks; 
 * Recommender System; 
-* Computer Vision.
+
+And Wendong's recent research interests also include AIGC (e.g., GPT-X, Language/Graph/Visual Generated Models). **Welcome for cooperation! Email: biwendong20g@ict.ac.cn Wechat: **AydenBi
 
 <br/>
 
 # Career
-* **Microsoft Research Asia**
+* **Tencent        2023.07~**
+
+  Applied Researcher@IEG
+
+  Joined by **Tencent Technology Master talent plan**
+
+* **Microsoft Research Asia (MSRA)        2021.10~2022.10** 		
   
-  Research Intern@DKI-Group, Beijing
+  Research Internship@DKI-Group, Beijing, **Stars of Tomorrow Internship**
   
   * Research on Graph Representation Learning, Graph Neural Networks.
     * GNN, Data mining, Heterophily Graph, Heterogeneous Graph.
     * Papers and international algorithm competitions.
   
-* **Byte Dance**
+* **Byte Dance        2020.10~2021~05**
 
-  Algorithm Engineer@AI-Lab-VC, Beijing
+  Algorithm Engineer Internship@AI-Lab-VC, Beijing
 
   * Participated in the Douyin Natural Project, responsible for the training and deployment of large-scale  fine-grained image classification models.
 
-* **JD.com**
+* **JD.com        2019.10~2020~06**
 
-  Algorithm Engineer@JD AI Research, Shanghai 
+  Algorithm Engineer Internship@JD AI Research, Shanghai 
 
   * Product image intelligent generation based on product attributes and UV conversion rate.
 
@@ -62,13 +69,13 @@ Wendong's primary research interest covers the following areas:
 
   **W. Bi**, B. Xu, X. Sun, Z. Wang, H. Shen, X. Cheng
   
-  In *ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD'22, oral**)*
+  In *ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD'22**)*
 
 * MM-GNN: Mix-Moment Graph Neural Network towards Modeling Neighborhood Feature Distribution [[pdf](https://dl.acm.org/doi/10.1145/3539597.3570457)] [[video](https://dl.acm.org/doi/10.1145/3539597.3570457)]
 
   **W. Bi**, L. Du, Q. Fu, Y. Wang, S. Han, D. Zhang
 
-  In *The International Conference on Web Search and Data Mining (**WSDM'23, oral**)*
+  In *The International Conference on Web Search and Data Mining (**WSDM'23**)*
 
 * HTGN-BTW: Heterogeneous Temporal Graph Network with Bi-Time-Window Training Strategy for Temporal Link Prediction [[pdf](https://arxiv.org/abs/2202.12713)]
 
