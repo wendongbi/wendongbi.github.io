@@ -20,9 +20,9 @@ Wendong's primary research interest covers the following areas:
 
 And Wendong's recent research interests also include AIGC (e.g., GPT-X, Language/Graph/Visual Generated Models). 
 
-**Welcome for cooperation! **
+**Welcome for cooperation!** 
 
-* **Email: biwendong20g@ict.ac.cn **
+* **Email**: biwendong20g@ict.ac.cn 
 
 * **Wechat:** AydenBi
 
