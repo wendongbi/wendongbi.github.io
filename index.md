@@ -18,7 +18,13 @@ Wendong's primary research interest covers the following areas:
 * Social Networks, Financial Networks; 
 * Recommender System; 
 
-And Wendong's recent research interests also include AIGC (e.g., GPT-X, Language/Graph/Visual Generated Models). **Welcome for cooperation! Email: biwendong20g@ict.ac.cn Wechat: **AydenBi
+And Wendong's recent research interests also include AIGC (e.g., GPT-X, Language/Graph/Visual Generated Models). 
+
+**Welcome for cooperation! **
+
+* **Email: biwendong20g@ict.ac.cn **
+
+* **Wechat:** AydenBi
 
 <br/>
 
