@@ -35,6 +35,13 @@ And Wendong's recent research interests also include AIGC (e.g., GPT-X, Language
 
   Joined by **Tencent Technology Master talent plan**
 
+* **UbiQuant       2022.10~2022.12** 		
+
+  Quant Researcher
+
+  * Research on Graph Alternative Factor Mining
+    * Mining quant factor from stock graph data (e.g., supply chain, industry chain) with graph representation learning methods.
+
 * **Microsoft Research Asia (MSRA)        2021.10~2022.10** 		
   
   Research Internship@DKI-Group, Beijing, **Stars of Tomorrow Internship**
