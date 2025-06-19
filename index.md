@@ -22,7 +22,7 @@ And Wendong's recent research interests also include AIGC (e.g., GPT-X, Language
 
 **Welcome for cooperation!** 
 
-* **Email**: biwendong20g@ict.ac.cn 
+* **Email**: biwendong@foxmail.com
 
 * **Wechat:** AydenBi
 
@@ -31,9 +31,8 @@ And Wendong's recent research interests also include AIGC (e.g., GPT-X, Language
 # Career
 * **Tencent        2023.07~**
 
-  Applied Researcher@IEG
+  Applied Researcher@Wechat
 
-  Joined by **Tencent Technology Master talent plan**
 
 * **UbiQuant       2022.10~2022.12** 		
 
